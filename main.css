@@ -1,0 +1,14 @@
+.mainArticles {
+    display: grid;
+    grid-template-columns: minmax(1.2rem, 1fr) minmax(1.2rem, 1fr) minmax(1.2rem, 1fr);
+}
+
+.mainArticle__image {
+    max-width: 20rem;
+    max-height: 20rem;
+    width: 90%;
+}
+
+.mainImage{
+    text-align: center;
+}
